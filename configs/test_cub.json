@@ -1,0 +1,15 @@
+{
+    "data":  "CUB_200_2011",
+    "arch":  "resnet50",
+    "checkpoint":  "results/cub/resnet50/",
+    "img_size": 512,
+    "crop_size": 448,
+    "batch_size": 8,
+    "num_classes": 200,
+    "workers": 16,
+    "box_thred": 0.2,
+    "tta": "None"
+}
+
+
+
