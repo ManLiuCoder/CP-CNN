@@ -13,7 +13,7 @@ Pytorch implementation of "***TIP2022-Cross-Part Learning for Fine-Grained Image
 ## Preparing Dataset and Model
 Download the [CUB-200-2011](http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz) datasets, You can also try other fine-grained datasets.
 
-We provide the checkpoint model trained by ourselves, you can download it from [here](https://drive.google.com/file/d/1uhrj_-cWZmULIa2mgXWSHkDB1rTMZNWN/view?usp=sharing). If you test on our provided model, you will get a 92.27% test accuracy.
+We provide the checkpoint model trained by ourselves, you can download it from [here](https://drive.google.com/file/d/1uhrj_-cWZmULIa2mgXWSHkDB1rTMZNWN/view?usp=sharing). If you test on our provided model, you will get a 92.27% test accuracy on CUB.
 
 You can organize the provided model and datasets as follows: 
 ```
